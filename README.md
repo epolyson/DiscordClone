@@ -1,0 +1,2 @@
+# DiscordClone
+TypeScriptとReact学習のためのDiscordのクローンアプリです。
