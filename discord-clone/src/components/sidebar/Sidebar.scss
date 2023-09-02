@@ -2,8 +2,6 @@
   display: flex;
   flex: 0.3;
   height: 100vh;
-  //TODO: 後でホームに移動
-  // background: #393943;
 
   .sidebarLeft {
     display: flex;
@@ -67,8 +65,8 @@
       .sidebarFooter {
         .sidebarAccount {
           img {
-            height: 100px;
-            width: 100px;
+            height: 50px;
+            width: 50px;
             border-radius: 50%;
           }
         }
